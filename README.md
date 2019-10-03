@@ -10,7 +10,7 @@ phenotype.txt is a sample phenotype file containing the following variables: age
 
 # Quick Start
 
-1. Download the phenotype and snp file and follow the R code to create the final response file. The final response file should contain all 20 snps, age, smoking status, sex, disease status, and martingale residuals as the last column.
+1. Download the phenotype and snp files and follow the R code to create the final response file. The final response file should contain the 20 snps, age, smoking status, sex, disease status, and martingale residuals as the last column.
 
 2. Download mdr.jar.
 
