@@ -12,7 +12,9 @@ phenotype.txt is a sample phenotype file containing subject age, smoking status 
 
 1. Download the phenotype and snp file and follow the R code to create the final response file.
 
-2. Run the following in the command line:
+2. Download mdr.jar
+
+3. Run the following in the command line:
 java -jar mdr.jar -min=1 -max=2 -cv=2 -seed=0 -top_models_landscape_size=50 -minimal_output=true "response.txt" > output.out
 
 
