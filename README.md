@@ -6,7 +6,7 @@ ESMDR can be run in any operating systems, such as Windows, Mac OS, Linux, where
 # Data Format
 snp.txt is a sample marker file that is organized in the genotype format. The first row in the file is the header line composed of a list of SNPs. The remaining rows are genotypes represented as 0, 1, 2.
 
-phenotype.txt is a sample phenotype file containing subject age, smoking status (0 = never smoker, 1 = ever smoker), sex (1 = male, 2 = female), and martingale residuals.
+phenotype.txt is a sample phenotype file containing the following variables: age, smoking status (0 = never smoker, 1 = ever smoker), sex (1 = male, 2 = female), and martingale residuals.
 
 # Quick Start
 
