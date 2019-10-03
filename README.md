@@ -3,5 +3,5 @@ The Efficient Survival Multifactor Dimensionality Reduction (ESMDR) method is a 
 
 ESMDR can be run in any operating systems, such as Windows, Mac OS, Linux, where Java and R programming are supported.
 
-#Start ESMDR
+# Quick Start
 
